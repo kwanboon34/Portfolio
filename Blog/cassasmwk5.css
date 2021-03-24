@@ -1,0 +1,31 @@
+h1{
+    color: #e02323;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 55px;
+    
+}
+h2{
+    margin-left: 60%;
+    color: #db0f0f;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*BG*/
+body{
+    background-color: #ffd900 ;
+}
+
+/*margin*/
+.textbox{
+    text-align: center;
+}
+.button1{
+    text-align: center;
+}
+
+@media only screen and (max-width: 767px){
+    .class1{
+        border: 2px solid #f56038;
+    }
+}
